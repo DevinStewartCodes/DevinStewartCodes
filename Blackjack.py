@@ -3,7 +3,9 @@
     I have modified to play with 'old west' rules
     and changed to mimic playing in a saloon on a river
     town where you might be waiting for the big
-    tournament aboard a river boat
+    tournament aboard a river boat. I also added the ability to determine
+    how much money you are bringingt to the table, as well as the other player's
+    responses based on that number.
 """
 
 import random, sys
